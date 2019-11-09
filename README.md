@@ -25,3 +25,4 @@
 - [ ] 企業などの座席をWebで管理できるシステム
   - https://www.team-lab.com/facemap が近いがお値段がわからぬ
 - [ ] 盤面がハードで押すと他の駒もうまく動くOstle
+- [ ] その人が所有する書籍やWebページ、Twitter、メール、LINE、slackなんかを全文検索するシステム
