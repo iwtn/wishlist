@@ -30,3 +30,4 @@
   - https://todoist.com/templates/personal/grocery-list これでだいたいOK
 - [ ] OSSの物理図書館システム
   - 蔵書管理、書籍の位置検索、貸し出し管理あたりができると良い
+- [ ] 有給取得計画カレンダー
